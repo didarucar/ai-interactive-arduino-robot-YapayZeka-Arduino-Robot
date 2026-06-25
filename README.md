@@ -18,7 +18,7 @@ This project connects a Python-based AI object detection system with an Arduino-
 <img width="1200" height="1600" alt="WhatsApp Image 2026-06-25 at 19 22 59" src="https://github.com/user-attachments/assets/5abda6c8-f252-449c-9b3a-1753b761bfbe" />
 <img width="1200" height="1600" alt="WhatsApp Image 2026-06-25 at 19 22 29 (2)" src="https://github.com/user-attachments/assets/e909332e-fcec-4353-a7b0-c185c1700cc6" />
 <img width="1200" height="1600" alt="WhatsApp Image 2026-06-25 at 19 22 29 (1)" src="https://github.com/user-attachments/assets/89767ad9-4200-43a8-968e-8630fa4caaa6" />
-<img width="1200" height="1600" alt="WhatsApp Image 2026-06-25 at 19 22 29" src="https://github.com/user-attachments/assets/eec52e95-bb13-4339-852e-887671d7eac5" />
+
 
 # 🤖 Arduino LED Matrisli Yapay Zeka Destekli İnteraktif Robot
 
